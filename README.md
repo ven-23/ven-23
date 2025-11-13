@@ -20,11 +20,3 @@ I am a Computer Science student at Angeles University Foundation with a strong f
 ### Badges
 
 <a href="https://github.com/ven-23" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ven-23&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/ven-23/RTAverse" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ven-23&repo=RTAverse&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ven-23/DoseKo" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ven-23&repo=DoseKo&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/ven-23/SonicGroove" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ven-23&repo=SonicGroove&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/ven-23/Flick-n-Fire" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ven-23&repo=Flick-n-Fire&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
